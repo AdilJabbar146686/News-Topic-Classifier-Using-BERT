@@ -1,8 +1,4 @@
-streamlit
+gradio
 torch
 transformers
-scikit-learn
-joblib
-numpy
-pandas
-
+huggingface-hub
