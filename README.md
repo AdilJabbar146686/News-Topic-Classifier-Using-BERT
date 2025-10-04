@@ -80,5 +80,5 @@ This project is licensed under the MIT License.
 Author:
 
 Adil Jabbar
-- GitHub: https://github.com/yourusername
+- GitHub: [https://github.com/yourusername](https://github.com/AdilJabbar146686/News-Topic-Classifier-Using-BERT.git)
 - Portfolio: developershub
